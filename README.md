@@ -43,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![KSP 4 2 (2)_page-0001](https://github.com/KSPandian7/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/113496887/f35f9ce3-199d-44d6-9036-4f5f8a5b46fb)
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
